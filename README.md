@@ -1,3 +1,2 @@
 # Projetos-karine
-
-prompt("digite um valor em wons")
+valor = prompt("digite um valor em wons")
